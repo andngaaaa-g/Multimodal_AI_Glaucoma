@@ -31,3 +31,11 @@ my-project/
 ├── glauc_mult_models.py
 ├── nested_kfold_V6.py
 ├── __pycache__ (this folder will be automatically created after the model codes has been run the first time)
+
+
+
+Don't reinvent the wheel and giving credit where it is due:
+The code used in these programs are adapted from the code and study below:
+#Credits @article{ahmed2016house, title={House price estimation from visual and textual features}, author={Ahmed, Eman and Moustafa, Mohamed}, journal={arXiv preprint arXiv:1609.08399}, year={2016} }
+#Main Code that this was adapted from: https://pyimagesearch.com/2019/02/04/keras-multiple-inputs-and-mixed-data/
+
