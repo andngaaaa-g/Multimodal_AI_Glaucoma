@@ -1,4 +1,5 @@
 # Multimodal_AI_Glaucoma
+**Put this file in the code tab setting, it will make more sense that way**
 a MultiModal_AI_Glaucoma model to predict whether the combination of parameter data and images will predict a status of glaucoma (GL), glaucoma suspect (GLS), or healthy eye (HC) status.
 Both models in this repository use the same data mediums and also use the same supporting files. The difference in the two models codes are how the models are trained and how the data is relatviely split.
 
