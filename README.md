@@ -1,9 +1,9 @@
 # Multimodal_AI_Glaucoma
-a MultiModal_AI_Glaucoma model to predict whether the combination of parameter data and images will predict a status of glaucoma (GL), glaucoma suspect (GLS), or healthy eye (HC) status
-There are two models within this repository:
+a MultiModal_AI_Glaucoma model to predict whether the combination of parameter data and images will predict a status of glaucoma (GL), glaucoma suspect (GLS), or healthy eye (HC) status.
+Both models in this repository use the same data mediums and also use the same supporting files. The difference in the two models codes are how the models are trained and how the data is relatviely split.
 
 1st model instructions:
-The first model is a train test split model that seperates the data into 80% training, 10% validation and 10% testing
+The first model is a train test split model that seperates the data into 80% training, 10% validation and 10% testing.
 To run the first model's code, copy and paste these commands into terminal:
 cd Desktop
 cd F1
