@@ -1,0 +1,29 @@
+download these modules/libraries:
+matplotlib
+pandas
+tqdm
+scikit-learn
+keras-preprocessing
+Tensorflow
+Keras
+
+
+You need those modules to run these imports/packages/modules etc:
+tensorflow.keras.models import Sequential, Model
+tensorflow.keras.layers import Input, Dense, Conv2D, MaxPooling2D, Flatten, Dropout, Activation, BatchNormalization
+from sklearn.preprocessing import LabelBinarizer, LabelEncoder, OneHotEncoder
+glob
+cv2
+os
+sklearn.model_selection import train_test_split
+tensorflow.keras.layers import Dense
+tensorflow.keras.models import Model, load_model
+tensorflow.keras.optimizers import Adam
+tensorflow.keras.layers import concatenate
+tensorflow.keras.callbacks import ModelCheckpoint
+sklearn.metrics import confusion_matrix, ConfusionMatrixDisplay, roc_curve, auc, f1_score
+matplotlib.pyplot as plt
+sklearn.preprocessing import LabelEncoder, label_binarize
+numpy as np
+argparse
+os
