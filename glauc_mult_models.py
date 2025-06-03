@@ -1,5 +1,7 @@
 #!/usr/bin/env python3
-# -*- coding: utf-8 -*-
+#Credits @article{ahmed2016house, title={House price estimation from visual and textual features}, author={Ahmed, Eman and Moustafa, Mohamed}, journal={arXiv preprint arXiv:1609.08399}, year={2016} }
+#Main Code that this was adapted from: https://pyimagesearch.com/2019/02/04/keras-multiple-inputs-and-mixed-data/
+
 """
 Created on Mon Jun  3 11:29:33 2024
 
