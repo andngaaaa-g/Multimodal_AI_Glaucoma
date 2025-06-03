@@ -1,7 +1,6 @@
-#Author/Adaptor Andy Ng 
-#Beginning Date and Time
+
 #Credits @article{ahmed2016house, title={House price estimation from visual and textual features}, author={Ahmed, Eman and Moustafa, Mohamed}, journal={arXiv preprint arXiv:1609.08399}, year={2016} }
-#Main Code: https://pyimagesearch.com/2019/02/04/keras-multiple-inputs-and-mixed-data/
+#Main Code that this was adapted from: https://pyimagesearch.com/2019/02/04/keras-multiple-inputs-and-mixed-data/
 
 
 
