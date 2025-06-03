@@ -17,4 +17,4 @@ each fold will be used as testing fold in the outer fold.
 To run the second model's code, copy and paste these commands into terminal:
 cd Desktop
 cd F1
-python nest_kfold_
+python nest_kfold_V6.py
