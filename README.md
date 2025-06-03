@@ -18,3 +18,15 @@ To run the second model's code, copy and paste these commands into terminal:
 cd Desktop
 cd F1
 python nest_kfold_V6.py
+
+
+Here is what the folder should look like when assembling the program to be used:
+my-project/
+├── README.md
+├── image_dataset
+├── requirements.txt
+├── glauc_mix_train.py
+├── glauc_mult_datasets.py
+├── glauc_mult_models.py
+├── nested_kfold_V6.py
+├── __pycache__ (this folder will be automatically created after the model codes has been run the first time)
